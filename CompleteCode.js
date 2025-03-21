@@ -69,3 +69,6 @@ function contactDetails(firstName,lastName,address,state,city,zipCode,email,phon
         }
     }   
 }
+//UC3 
+contactDetails('Jayraj', 'Pedakapu', 'Home', 'Andhra Pradesh', 'Tuni', "533401", 'Jayrajpedakapu1508@gmail.com', "3342532525");
+console.log(addressBook);
